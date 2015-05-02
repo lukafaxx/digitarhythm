@@ -42,7 +42,7 @@ p {
 }
 
 .main-header {
-  padding: 2rem 0;
+  padding: 1rem 0;
 }
 
 .main-content {
@@ -85,7 +85,7 @@ p {
   width: 240px;
   height: 360px;
   background-size: 240px 360px;
-  margin: .3rem .2rem;
+  margin: .35rem .2rem;
   overflow: hidden;
   font-size: 1rem;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.75);
@@ -140,6 +140,7 @@ p {
 }
 
 @media (max-width: 720px) {
+  .main-header { font-size: .8rem; }
   .module { width: 133px; height: 200px; background-size: 133px 200px; }
   .musicgame { font-size: .9rem ; padding: .5rem; }
   .musicinfo { padding: .5rem; }
