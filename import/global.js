@@ -28,7 +28,7 @@
 
     // ----- Lazy Load
     $(function() {
-      $("div.lazy").lazyload({
+      $('div.module').lazyload({
         effect : 'fadeIn',
         threshold : 640
       });

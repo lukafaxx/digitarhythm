@@ -3,7 +3,7 @@
 {% for selection in music.selection %}
 {% assign shortname = selection.game | downcase | remove:" " | remove: "-" | remove:"'" | remove:":" | remove:"&" %}
 <a class="popup-youtube" href="http://www.youtube.com/watch?v={{ selection.id }}">
-  <div class="module lazy" data-original="./img/{{ shortname }}.jpg">
+  <div class="module" data-original="./img/{{ shortname }}.jpg">
     <div class="hover-content">
       <div class="musicgame">{{ selection.game }}</div>
       <div class="musicinfo">
