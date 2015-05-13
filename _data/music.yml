@@ -12,15 +12,20 @@
 
 - year: 2014
   selection:
-    - game: Rogue Legacy
-      title: Broadside of the Broadsword (Dungeon)
-      artist: Tettix
-      id: zAoCaXwu1bg
-
     - game: Transistor
       title: Paper Boats
       artist: Darren Korb & Ashley Barrett
       id: vFrjMq4aL-g
+
+    - game: Guilty Gear Xrd
+      title: Django Django
+      artist: Daisuke Ishiwatari
+      id: ESdJ-LVKNAg
+
+    - game: Rogue Legacy
+      title: Broadside of the Broadsword (Dungeon)
+      artist: Tettix
+      id: zAoCaXwu1bg
 
     - game: Luftrausers
       title: Luftrauser
