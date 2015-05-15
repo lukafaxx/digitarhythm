@@ -35,9 +35,9 @@
       });
     });
 
-    // ----- Toggle Quicksearch
-    $('#toggle-quicksearch').on('click', function(){
-      $('.quicksearch-content').toggle('fast');
+    // ----- Toggle Mosaic
+    $('#toggle-mosaic').on('click', function(){
+      $('.mosaic-content').toggle('slow');
       var el = $(this);
       if (el.text() == el.data('text-swap')) {
         el.text(el.data('text-original'));

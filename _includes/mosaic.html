@@ -1,0 +1,9 @@
+  <div class="expand-mosaic">
+
+    <a><span id="toggle-mosaic" data-text-swap="[ hide mosaic ]">[ show mosaic ]</span></a>
+
+    <div class="mosaic-content">{% for music in site.data.music %}{% for selection in music.selection %}{% assign shortname = selection.game | downcase | remove:" " | remove: "-" | remove:"'" | remove:":" | remove:"&" %}
+      <a class="popup-youtube" href="http://www.youtube.com/watch?v={{ selection.id }}"><div class="mosaic-square" style="background-image: url('./img/small/{{ shortname }}.jpg');"></div></a>{% endfor %}{% endfor %}
+    </div>
+
+  </div>
