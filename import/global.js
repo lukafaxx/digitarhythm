@@ -1,4 +1,5 @@
   $(document).ready(function() {
+
     // ----- Magnific Popup
   	$('.popup-youtube').magnificPopup({
   		disableOn: 0,
@@ -32,6 +33,18 @@
         effect : 'fadeIn',
         threshold : 640
       });
+    });
+
+    // ----- Toggle Quicksearch
+    $('#toggle-quicksearch').on('click', function(){
+      $('.quicksearch-content').toggle('fast');
+      var el = $(this);
+      if (el.text() == el.data('text-swap')) {
+        el.text(el.data('text-original'));
+      } else {
+        el.data('text-original', el.text());
+        el.text(el.data('text-swap'));
+      }
     });
 
   });
