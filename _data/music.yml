@@ -5,59 +5,19 @@
       artist: Gareth Coker
       id: eaiJKLROq5M
 
-    - game: "Hotline Miami 2: Wrong Number"
-      title: Divide
-      artist: Magna
-      id: -aLOkTo3IpU
-
 - year: 2014
   selection:
-    - game: Transistor
-      title: Paper Boats
-      artist: Darren Korb & Ashley Barrett
-      id: vFrjMq4aL-g
-
-    - game: Guilty Gear Xrd
-      title: Django Django
-      artist: Daisuke Ishiwatari
-      id: ESdJ-LVKNAg
-
     - game: Rogue Legacy
       title: Broadside of the Broadsword (Dungeon)
       artist: Tettix
       id: zAoCaXwu1bg
 
-    - game: Luftrausers
-      title: Luftrauser
-      artist: KOZILEK
-      id: NnAKPTa8K2E
-
-    - game: "Wolfenstein: The New Order"
-      title: 14 Years
-      artist: Michael John Gordon
-      id: 9b2XhfFMphQ
-
 - year: 2013
   selection:
-    - game: The Last of Us
-      title: The Last of Us
-      artist: Gustavo Santaolalla
-      id: Y97u-U0nvJM
-
-    - game: "Far Cry 3: Blood Dragon"
-      title: Power Core
-      artist: Power Glove
-      id: cRoWRZJCgio
-
     - game: Hotline Miami
       title: Crystals
       artist: M|O|O|N
       id: ZLH20BTTRpE
-
-    - game: Grand Theft Auto V
-      title: We Were Set Up
-      artist: Various Artists
-      id: cETBCvKnu0Q
 
 - year: 2012
   selection:
@@ -66,16 +26,6 @@
       artist: Lorn
       id: YNPPdkxE7S0
 
-    - game: Borderlands 2
-      title: Ice
-      artist: Jesper Kyd
-      id: L8jHylkabt0
-
-    - game: Max Payne 3
-      title: "Max: Panama"
-      artist: HEALTH
-      id: EskJZmaYL10
-
 - year: 2011
   selection:
     - game: DiRT 3
@@ -83,52 +33,12 @@
       artist: Starkey & Kiki Hitomi
       id: EzemcoFVtS8
 
-    - game: "Deus Ex: Human Revolution"
-      title: LIMB Clinic
-      artist: Michael McCann
-      id: 5YQPydQnaoo
-
-    - game: Portal 2
-      title: Reconstructing Science
-      artist: Mike Morasky
-      id: J5Erl-y9b_4
-
-    - game: Dark Souls
-      title: Crossbreed Priscilla
-      artist: Motoi Sakuraba
-      id: g5zSVzoAdpE
-
-    - game: inFamous 2
-      title: Fade Away
-      artist: Black Heart Procession
-      id: C1FTE-5ebhQ
-
-    - game: Catherine
-      title: New World Symphony Remix
-      artist: Dvorak & Shoji Meguro
-      id: sZCOVPhQJp8
-
 - year: 2010
   selection:
     - game: Mass Effect 2
       title: Jacob
       artist: Sam Hulick
       id: l99D2BJBW_M
-
-    - game: Bastion
-      title: Terminal MArch
-      artist: Darren Korb
-      id: 6-aexLJKwME
-
-    - game: Red Dead Redemption
-      title: (Theme From) Red Dead Redemption
-      artist: Bill Elm & Woody Jackson
-      id: cpXXfCzSmJQ
-
-    - game: VVVVVV
-      title: Pushing Onwards
-      artist: Magnus Pålsson
-      id: 25m3Gk7mRQM
 
 - year: 2009
   selection:
@@ -139,43 +49,13 @@
 
 - year: 2008
   selection:
-    - game: "Metal Gear Solid 4: Guns of the Patriots"
-      title: Metal Gear Saga
-      artist: Harry Gregson-Williams
-      id: jp1HB42K5sI
-
     - game: Little Big Planet
       title: The Orb of Dreamers
       artist: The Daniel Pemberton TV Orchestra
       id: pYnEYclQpiM
 
-    - game: Braid
-      title: Tell It By Heart
-      artist: Jami Sieber
-      id: IOxWLxbiC5I
-
-    - game: Mirror's Edge
-      title: Kate
-      artist: Solar Fields
-      id: iinzHZmV5Kg
-
-    - game: World of Goo
-      title: Screamer
-      artist: Kyle Gabler
-      id: YEL0UsMQRcQ
-
-    - game: "Castlevania: Order of Ecclesia"
-      title: An Empty Tome
-      artist: Michiru Yamane & Yasuhiro Ichihashi
-      id: vZOf10o2WcM
-
 - year: 2007
   selection:
-    - game: BioShock
-      title: Cohen's Masterpiece
-      artist: Garry Schyman
-      id: nlu2z2gkhhI
-
     - game: Patapon
       title: Goroch's Theme
       artist: Kenmei Adachi
@@ -195,18 +75,8 @@
       artist: Amon Tobin
       id: adh99_Q735w
 
-    - game: "Grand Theft Auto: Liberty City Stories"
-      title: March Popakov Remix
-      artist: John Cacavas
-      id: 6_KlgASQy3E
-
 - year: 2004
   selection:
-    - game: Halo 2
-      title: Impend
-      artist: Marty O'Donnell & Michael Salvatori
-      id: LVsn4BjK6Jk
-
     - game: "Silent Hill 4: The Room"
       title: Room of Angel
       artist: Akira Yamaoka & Mary Elizabeth McGlynn
@@ -219,11 +89,6 @@
       artist: Hideki Naganuma
       id: -6lEm2ei3Kg
 
-    - game: Battlefield 1942
-      title: Main Theme
-      artist: Joel Eriksson
-      id: IPMnEmkoPFs
-
 - year: 2001
   selection:
     - game: Silent Hill 2
@@ -233,11 +98,6 @@
 
 - year: 2000
   selection:
-    - game: Jet Set Radio
-      title: Jet Set Medley
-      artist: Hideki Naganuma
-      id: kcIt1YnRuag
-
     - game: Metropolis Street Racer
       title: Club Paris
       artist: Richard Jacques
@@ -250,42 +110,12 @@
       artist: Hideki Okugawa
       id: sxSzC2LhxN8
 
-    - game: Silent Hill
-      title: Silent Hill
-      artist: Akira Yamaoka
-      id: w2cK8mOG4Q8
-
-    - game: "Omikron: The Nomad Soul"
-      title: New Angels of Promise
-      artist: David Bowie & Reeves Gabrels
-      id: iSIhX-VWhtQ
-
-    - game: Shenmue
-      title: Shenhua
-      artist: Takenobu Mitsuyoshi
-      id: TY7AMDha9_k
-
-    - game: Grand Theft Auto 2
-      title: I Love This Feeling (Stoned Again)
-      artist: Scrapyard Mongrels
-      id: KA55c3DQJH0
-
 - year: 1998
   selection:
-    - game: Half-Life
-      title: Hazardous Environments
-      artist: Kelly Bailey
-      id: lDWRo2Igtsg
-
-    - game: "Metal Gear Solid"
+    - game: Metal Gear Solid
       title: Main Theme
       artist: TAPPY
       id: yd3zMu707XU
-
-    - game: StarCraft
-      title: Terran Two
-      artist: Blizzard Entertainment
-      id: -mzfnUIdzq4
 
 - year: 1996
   selection:
@@ -294,22 +124,12 @@
       artist: Matt Uelmen
       id: AnMR6SOBa9k
 
-    - game: PaRappa the Rapper
-      title: Instructor Mooselini's Car Rap
-      artist: NanaOn-Sha
-      id: RoqllL8Vl6o
-
 - year: 1995
   selection:
     - game: Command & Conquer
       title: Act On Instinct
       artist: Frank Klepacki
       id: n4AUY-v1nsE
-
-    - game: Chrono Trigger
-      title: Burn! Bobonga!
-      artist: Nobuo Uematsu
-      id: WAYFS0H24P4
 
 - year: 1994
   selection:
@@ -332,18 +152,8 @@
       artist: Delphine Software
       id: al_M2AEPqIo
 
-    - game: Streets of Rage 2
-      title: Go Straight
-      artist: Yuzo Koshiro
-      id: 6cta2rMTcE8
-
 - year: 1991
   selection:
-    - game: Street Fighter II
-      title: Chun-Li Stage
-      artist: Yoko Shimomura
-      id: EYlqocN_jsA
-
     - game: Sonic the Hedgehog
       title: Star Light Zone
       artist: Masato Nakamura
@@ -351,11 +161,6 @@
 
 - year: 1986
   selection:
-    - game: The Legend of Zelda
-      title: Main Theme
-      artist: Koji Kondo
-      id: LvytTVeTxCE
-
     - game: Metroid
       title: Brinstar
       artist: Hirokazu Tanaka
