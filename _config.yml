@@ -4,6 +4,9 @@ relative_permalinks:  false
 
 # Setup
 title:                "#digitarhythm"
-description:
+description:          "Video games music playlist."
 url:                  http://lukafaxx.github.io/digitarhythm/
 baseurl:              /digitarhythm
+exclude:              ["Gemfile", "Gemfile.lock", "LICENSE.md", "README.md"]
+sass:
+    style: compressed
