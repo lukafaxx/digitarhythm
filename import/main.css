@@ -1,9 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 @font-face {
   font-family: BebasNeue;
   src: url('BebasNeue.otf') format('opentype');
 }
-
-@import url(https://fonts.googleapis.com/css?family=Oswald);
 
 /* ----- Global */
 * {
@@ -16,7 +16,7 @@ html, body {
   background-color: #336;
   background-image: url('noise.png');
   color: #fff;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 24px;
   margin: 0 .8rem;
   min-width: 300px;
