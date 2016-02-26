@@ -1,20 +1,19 @@
 {% for music in site.data.music %}
 {% for selection in music.selection %}
-{% assign shortname = selection.game | downcase | remove:" " | remove: "-" | remove:"'" | remove:":" | remove:"&" %}
-<a class="popup-youtube" href="http://www.youtube.com/watch?v={{ selection.id }}">
-  <div class="module" data-original="./img/{{ shortname }}.jpg">
+{% assign shortname = selection.game | downcase | remove:" " | remove:"-" | remove:"'" | remove:":" | remove:"&" %}
+<div class="module" style="background-image: url('./img/{{ shortname }}.jpg')">
 
-    <div class="hover-year">{{ music.year }}</div>
+<div class="year">{{ music.year }}</div>
 
-    <div class="hover-content">
-      <div class="musicgame">{{ selection.game }}</div>
-      <div class="musicinfo">
+<div class="hover-content">
+    <div class="musicgame">{{ selection.game }}</div>
+    <a target="_blank" href="https://www.youtube.com/watch?v={{ selection.id }}"><div class="play">listen</div></a>
+    <div class="musicinfo">
         <div class="musicartist">{{ selection.artist }}</div>
         <div class="musictitle">{{ selection.title }}</div>
-      </div>
     </div>
+</div>
 
-  </div>
-</a>
+</div>
 {% endfor %}
 {% endfor %}
